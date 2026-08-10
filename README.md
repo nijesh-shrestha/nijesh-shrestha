@@ -114,7 +114,6 @@ Currently, I'm expanding my knowledge in:
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/nijesh-shrestha
 * LinkedIn: www.linkedin.com/in/nijesh-shrestha-0a36a641b
 
 ---
