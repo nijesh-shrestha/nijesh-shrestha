@@ -104,11 +104,21 @@ Currently, I'm expanding my knowledge in:
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nijesh-shrestha&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=nijesh-shrestha&show_icons=true&theme=tokyonight&hide_border=true" alt="Nijesh's GitHub Stats" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nijesh-shrestha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 📈 GitHub Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nijesh-shrestha&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nijesh-shrestha&theme=tokyo-night&hide_border=true" alt="Nijesh's GitHub Activity Graph" />
+</p>
 
 ---
 
