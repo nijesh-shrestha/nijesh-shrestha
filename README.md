@@ -104,11 +104,11 @@ Currently, I'm expanding my knowledge in:
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nijesh-shrestha&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nijesh-shrestha&theme=tokyonight)](https://git.io/streak-stats)
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nijesh-shrestha&theme=tokyo-night)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nijesh-shrestha&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
